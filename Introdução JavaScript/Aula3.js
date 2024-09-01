@@ -24,7 +24,7 @@ console.log ('O resultado da multiplicacao e: ', multiplicacao)
 const base = 90
 const altura = 50
 const area = base * altura / 2
-console.log('A area do trinagulo e: ', area)
+console.log('A area do triangulo e: ', area)
 
 
 console.log('2 elevado a 10 e igual a: ', (2 **10))
