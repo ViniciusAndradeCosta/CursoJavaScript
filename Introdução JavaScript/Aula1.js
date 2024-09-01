@@ -12,4 +12,4 @@ console.log('Meu curso e ', curso)
 console.log('Minha nota e: ', notaDoAluno)
 
 // diferenca entre const e let, const e uma variavel constante que nao pode mudar, let pode sofrer alteracao
-//como no exemplo do codigo acima let ao inves de printar 60.5 vai printar 40.7
+//como no exemplo do codigo acima let ao inves de printar 93.5 vai printar 90.7
