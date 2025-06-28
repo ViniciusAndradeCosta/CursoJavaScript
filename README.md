@@ -1,56 +1,108 @@
-# Curso de JavaScript - Universidade Federal de Ouro Preto (ICEA)
+# 📘 Curso de JavaScript
 
-Bem-vindo ao repositório do curso de JavaScript oferecido pela Universidade Federal de Ouro Preto - Instituto de Ciências Exatas e Aplicadas (ICEA).
+**Universidade Federal de Ouro Preto (UFOP) – Instituto de Ciências Exatas e Aplicadas (ICEA)**
 
-## Descrição
-Este curso de JavaScript foi desenvolvido para proporcionar uma introdução abrangente à programação em JavaScript, com foco em aplicações web. Ao longo do curso, você aprenderá conceitos fundamentais da linguagem, boas práticas de codificação e como integrar JavaScript com HTML e CSS para criar interfaces dinâmicas e interativas.
+## 📌 Apresentação Institucional
 
-## Estrutura do Curso
-O curso está organizado em módulos, cada um cobrindo tópicos essenciais de JavaScript:
+Este repositório corresponde ao conteúdo programático do curso de **JavaScript**, oferecido pelo **Instituto de Ciências Exatas e Aplicadas (ICEA)** da **Universidade Federal de Ouro Preto (UFOP)**. A disciplina tem como foco a formação de base sólida em programação com JavaScript, linguagem amplamente utilizada no desenvolvimento web moderno.
 
-### Módulo 1: Introdução ao JavaScript
-1. Instalação do node e Visual Studio Code
-2. Const, let e Variáveis, Entrada e Saida de dados
-3. Tipo de dados.
-4. Operadores aritméticos e matemáticos
-5. Objeto Math
-6. Exercícios. (10 pontos)
+---
 
-### Módulo 2: Lógica de programação
-7. Operadores de comparação
-8. Operadores lógicos
-9. Desvios condicional
-10. Objeto Date
-11. Switch/case
-12. Exercícios. (10 pontos) 
+## 🎯 Objetivos do Curso
 
-### Módulo 3: Estrutura de repetição e Vetor
-13. laço de repetição for
-14. laço de repetição While
-15. laço de repetição Do While
-16. Vetor
-17. Filter, Map e Reduce
-17. Exercícios. (20 pontos)
+O curso tem por objetivo capacitar os estudantes nos seguintes aspectos:
 
-### Módulo 4: Funções
-18. Declaração, parâmetros, argumentos e retorno da função
-19. Variáveis globais e locais
-21. Exercícios. (20 pontos)
+* Compreensão da sintaxe e semântica da linguagem JavaScript;
+* Aplicação de boas práticas de desenvolvimento;
+* Integração de JavaScript com HTML e CSS;
+* Desenvolvimento de aplicações web dinâmicas, interativas e orientadas a eventos;
+* Introdução à programação orientada a objetos e programação assíncrona.
 
-### Módulo 5: Programação Orientada Objetos
-22. Objetos literal
-23. Classes
-24. Getters e Setters
-25. Métodos de instância e estáticos
-26. Herança
-27. Exercícios. (20 pontos)
+---
 
-### Módulo 6: Programação assíncrona
-28- Promises
-28. Async / Await
-29. Import / Export
-30. Chamada de API com AXIOS
-31. Tratamento de exceções
-32. Exercícios (20 pontos)
+## 🗂️ Metodologia de Ensino
 
-Esse README fornece uma visão clara e estruturada do curso, facilitando a navegação e o entendimento dos tópicos abordados.
+A metodologia de ensino adotada contempla:
+
+* Aulas expositivas com demonstrações práticas;
+* Desenvolvimento incremental de projetos;
+* Realização de exercícios avaliativos ao final de cada módulo;
+* Incentivo ao aprendizado ativo por meio de resolução de problemas reais.
+
+---
+
+## 🧱 Estrutura do Curso
+
+O curso é dividido em **seis módulos temáticos**, com conteúdo teórico e prático. Cada módulo inclui exercícios com pontuação correspondente à avaliação parcial.
+
+---
+
+### 📦 Módulo 1 — Introdução ao JavaScript
+
+* Instalação do Node.js e Visual Studio Code
+* Declaração de variáveis com `const` e `let`
+* Entrada e saída de dados
+* Tipos de dados primitivos
+* Operadores aritméticos e lógicos
+* Objeto `Math`
+* **Exercícios avaliativos: 10 pontos**
+
+---
+
+### ⚙️ Módulo 2 — Lógica de Programação
+
+* Operadores de comparação
+* Operadores lógicos (`&&`, `||`, `!`)
+* Estruturas condicionais (`if`, `else`, `else if`)
+* Objeto `Date`
+* Estrutura `switch/case`
+* **Exercícios avaliativos: 10 pontos**
+
+---
+
+### 🔁 Módulo 3 — Estruturas de Repetição e Vetores
+
+* Estruturas de repetição: `for`, `while`, `do...while`
+* Manipulação de vetores (arrays)
+* Métodos de array: `filter()`, `map()`, `reduce()`
+* **Exercícios avaliativos: 20 pontos**
+
+---
+
+### 🧩 Módulo 4 — Funções
+
+* Declaração de funções, parâmetros e retorno
+* Escopo de variáveis: globais vs. locais
+* Funções anônimas e arrow functions
+* **Exercícios avaliativos: 20 pontos**
+
+---
+
+### 🧱 Módulo 5 — Programação Orientada a Objetos (POO)
+
+* Objetos literais
+* Definição de classes
+* Getters e Setters
+* Métodos de instância e métodos estáticos
+* Herança de classes
+* **Exercícios avaliativos: 20 pontos**
+
+---
+
+### 🔄 Módulo 6 — Programação Assíncrona
+
+* Promises e manipulação de operações assíncronas
+* `async/await`
+* Importação e exportação de módulos (`import/export`)
+* Requisições HTTP com **Axios**
+* Tratamento de exceções com `try/catch`
+* **Exercícios avaliativos: 20 pontos**
+
+---
+
+## 📚 Considerações Finais
+
+Este curso oferece uma base fundamental para o desenvolvimento web com JavaScript, preparando os alunos para desafios práticos e aplicações reais. Os conteúdos são constantemente revisados e atualizados conforme as demandas do mercado e avanços tecnológicos.
+
+---
+
